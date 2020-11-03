@@ -11,6 +11,12 @@
 }
 .box_2 {
 }
+.box_3 {
+}
+.ellipse {
+}
+.image {
+}
 .button {
 }
 .primary_button {
@@ -63,6 +69,8 @@
 }
 ._文本段落 {
   text-align:left;
+}
+._流程形状 {
 }
 .line {
 }
